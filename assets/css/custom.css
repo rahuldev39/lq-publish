@@ -1,0 +1,19 @@
+.u-block-hover__main--zoom-v1{
+  min-height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.background--dark, .bg-dark {
+    background: #0c2050 !important;
+    color: #939eb8;
+}
+.nav-section{
+
+}
+.bg-dark nav .navbar-nav  > li > a.nav-link{
+  color: white !important;
+  opacity: .7
+}
+.bg-dark nav .navbar-nav  > li > a.nav-link:hover{
+  opacity: 1
+}
