@@ -25,3 +25,6 @@
   object-fit: cover;
   object-position: center;
 }
+.video-gallery article iframe {
+    border-radius: 10px;
+}
